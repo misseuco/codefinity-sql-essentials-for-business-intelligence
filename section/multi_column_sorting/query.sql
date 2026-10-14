@@ -1,0 +1,1 @@
+select continent, region, population, capital from country ORDER BY continent, population
