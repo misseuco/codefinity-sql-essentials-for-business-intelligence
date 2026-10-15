@@ -1,0 +1,1 @@
+SELECT min(surfacearea) from country
