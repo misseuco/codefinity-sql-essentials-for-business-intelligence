@@ -1,0 +1,1 @@
+select name, capital from country WHERE population is NULL
